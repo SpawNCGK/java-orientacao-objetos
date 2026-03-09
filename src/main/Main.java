@@ -9,7 +9,7 @@ public class Main {
 
         Pessoa p = new Pessoa();
         p.nome = "Augusto";
-        p.idade = 30;
+        p.idade = 33;
 
         p.apresentar();
     }
